@@ -1,0 +1,200 @@
+[17:47:57] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:48:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:48:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:48:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:48:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[17:48:04] [ServerMain/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[17:48:06] [Worker-Main-2/INFO]: Loaded 7 recipes
+[17:48:07] [Worker-Main-2/INFO]: Loaded 1141 advancements
+[17:48:12] [Server thread/INFO]: Starting minecraft server version 1.18.2
+[17:48:12] [Server thread/INFO]: Loading properties
+[17:48:12] [Server thread/INFO]: Default game type: SURVIVAL
+[17:48:12] [Server thread/INFO]: Generating keypair
+[17:48:13] [Server thread/INFO]: Starting Minecraft server on 46.101.217.152:25565
+[17:48:13] [Server thread/INFO]: Using epoll channel type
+[17:48:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:48:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:48:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:48:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:48:13] [Server thread/INFO]: Preparing level "world"
+[17:48:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:48:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:33] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:34] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:35] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:36] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:37] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:38] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:40] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:41] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[17:48:42] [Worker-Main-2/INFO]: Preparing spawn area: 1%
+[17:48:42] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[17:48:43] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[17:48:43] [Worker-Main-2/INFO]: Preparing spawn area: 4%
+[17:48:44] [Worker-Main-2/INFO]: Preparing spawn area: 6%
+[17:48:44] [Worker-Main-2/INFO]: Preparing spawn area: 9%
+[17:48:45] [Worker-Main-2/INFO]: Preparing spawn area: 10%
+[17:48:45] [Worker-Main-2/INFO]: Preparing spawn area: 13%
+[17:48:46] [Worker-Main-2/INFO]: Preparing spawn area: 17%
+[17:48:46] [Worker-Main-2/INFO]: Preparing spawn area: 26%
+[17:48:47] [Worker-Main-2/INFO]: Preparing spawn area: 30%
+[17:48:47] [Worker-Main-2/INFO]: Preparing spawn area: 34%
+[17:48:48] [Worker-Main-2/INFO]: Preparing spawn area: 45%
+[17:48:48] [Worker-Main-2/INFO]: Preparing spawn area: 47%
+[17:48:49] [Worker-Main-2/INFO]: Preparing spawn area: 58%
+[17:48:49] [Worker-Main-2/INFO]: Preparing spawn area: 74%
+[17:48:50] [Worker-Main-2/INFO]: Preparing spawn area: 80%
+[17:48:50] [Worker-Main-2/INFO]: Preparing spawn area: 84%
+[17:48:51] [Worker-Main-2/INFO]: Preparing spawn area: 85%
+[17:48:51] [Server thread/INFO]: Time elapsed: 23376 ms
+[17:48:51] [Server thread/INFO]: Done (37.721s)! For help, type "help"
+[17:48:55] [Server thread/INFO]: SvininiPoedati[/185.75.180.142:57651] logged in with entity id 16 at (738.2323348521707, 64.0, -853.5025261453185)
+[17:48:55] [Server thread/INFO]: SvininiPoedati joined the game
+[17:49:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5478ms or 109 ticks behind
+[17:49:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14488ms or 289 ticks behind
+[17:49:37] [Server thread/INFO]: Akuto[/176.106.244.149:19345] logged in with entity id 449 at (787.4866938324145, -5.0, -867.4438749626812)
+[17:49:37] [Server thread/INFO]: Akuto joined the game
+[17:49:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4019ms or 80 ticks behind
+[17:49:54] [Server thread/INFO]: dryun[/95.72.115.51:65285] logged in with entity id 578 at (935.6074089915261, 9.0, -911.4232568098022)
+[17:49:54] [Server thread/INFO]: dryun joined the game
+[17:50:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11924ms or 238 ticks behind
+[17:50:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10907ms or 218 ticks behind
+[17:51:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9852ms or 197 ticks behind
+[17:51:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14412ms or 288 ticks behind
+[17:52:00] [Server thread/INFO]: [Akuto: Teleported Akuto to SvininiPoedati]
+[17:52:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10582ms or 211 ticks behind
+[17:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[17:52:28] [Server thread/INFO]: [Akuto: Set the weather to clear]
+[17:52:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6391ms or 127 ticks behind
+[17:53:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6817ms or 136 ticks behind
+[17:53:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3290ms or 65 ticks behind
+[17:54:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[17:54:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3784ms or 75 ticks behind
+[17:54:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6417ms or 128 ticks behind
+[17:55:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8520ms or 170 ticks behind
+[17:55:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13501ms or 270 ticks behind
+[17:56:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10748ms or 214 ticks behind
+[17:56:35] [Server thread/WARN]: SvininiPoedati moved too quickly! -7.816977346809949,-1.4199999868869781,6.218274643178461
+[17:56:35] [Server thread/WARN]: Akuto moved too quickly! -9.292108566746606,1.0,3.847833999284319
+[17:56:35] [Server thread/WARN]: dryun moved too quickly! 9.802346644160934,0.0,2.2869985112128006
+[17:56:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25185ms or 503 ticks behind
+[17:57:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17893ms or 357 ticks behind
+[17:57:45] [Server thread/INFO]: dryun lost connection: Disconnected
+[17:57:45] [Server thread/INFO]: dryun left the game
+[17:57:46] [Server thread/INFO]: dryun[/95.72.115.51:56167] logged in with entity id 4126 at (958.9799621149923, -17.0, -838.3000000119209)
+[17:57:46] [Server thread/INFO]: dryun joined the game
+[17:57:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11347ms or 226 ticks behind
+[17:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7405ms or 148 ticks behind
+[17:59:33] [Server thread/INFO]: [Akuto: Set the weather to clear]
+[17:59:37] [Server thread/INFO]: com.mojang.authlib.GameProfile@2fcbd656[id=<null>,name=MR_PIPISKIN  ,properties={},legacy=false] (/213.24.133.243:8975) lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[18:00:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@56ad5460[id=<null>,name=MR_PIPISKIN  ,properties={},legacy=false] (/213.24.133.243:3669) lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[18:00:11] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a6e3468[id=<null>,name=MR_PIPISKIN  ,properties={},legacy=false] (/213.24.133.243:3710) lost connection: Internal Exception: java.lang.IllegalStateException: Invalid characters in username
+[18:00:15] [Server thread/INFO]: SvininiPoedati has made the advancement [The Parrots and the Bats]
+[18:01:03] [Server thread/INFO]: mrpipiskin[/213.24.133.243:8983] logged in with entity id 6488 at (-22.5, 69.0, 12.5)
+[18:01:03] [Server thread/INFO]: mrpipiskin joined the game
+[18:03:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18:03:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4441ms or 88 ticks behind
+[18:04:01] [Server thread/INFO]: [Akuto: Teleported Akuto to SvininiPoedati]
+[18:04:17] [Server thread/INFO]: [Akuto: Teleported mrpipiskin to Akuto]
+[18:04:43] [Server thread/INFO]: [Akuto: Set the weather to clear]
+[18:05:43] [Server thread/INFO]: mrpipiskin has made the advancement [Sweet Dreams]
+[18:06:17] [Server thread/INFO]: [Akuto: Set the time to 1000]
+[18:07:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=726, y=68, z=-822} gj{x=726, y=66, z=-823}
+[18:07:05] [Server thread/INFO]: mrpipiskin has made the advancement [Monster Hunter]
+[18:08:02] [Server thread/INFO]: [Akuto: Kicked SvininiPoedati: соси хуй]
+[18:08:02] [Server thread/INFO]: SvininiPoedati lost connection: соси хуй
+[18:08:02] [Server thread/INFO]: SvininiPoedati left the game
+[18:08:11] [Server thread/INFO]: SvininiPoedati[/185.75.180.142:57687] logged in with entity id 10325 at (744.2028822593916, 64.0, -856.6496923055244)
+[18:08:11] [Server thread/INFO]: SvininiPoedati joined the game
+[18:09:03] [Server thread/INFO]: mrpipiskin has made the advancement [Stone Age]
+[18:09:13] [Server thread/INFO]: mrpipiskin has made the advancement [Getting an Upgrade]
+[18:09:57] [Server thread/INFO]: [Akuto: Set the weather to clear]
+[18:13:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[18:14:40] [Server thread/INFO]: <dryun> да
+[18:14:55] [Server thread/INFO]: <dryun> ок
+[18:15:16] [Server thread/INFO]: [Akuto: Set the weather to clear]
+[18:16:37] [Server thread/INFO]: Akuto has made the advancement [Enchanter]
+[18:17:11] [Server thread/INFO]: [Akuto: Set the time to 1000]
+[18:20:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[18:20:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2930ms or 58 ticks behind
+[18:21:22] [Server thread/INFO]: [Akuto: Set the weather to clear]
+[18:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[18:21:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[18:23:05] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=735, y=68, z=-824} gj{x=736, y=66, z=-822}
+[18:23:07] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=735, y=68, z=-818} gj{x=735, y=66, z=-816}
+[18:23:19] [Server thread/INFO]: [Akuto: Teleported dryun to SvininiPoedati]
+[18:26:06] [Server thread/INFO]: [Akuto: Teleported dryun to Akuto]
+[18:26:30] [Server thread/INFO]: [Akuto: Set the weather to clear]
+[18:27:15] [Server thread/INFO]: [Akuto: Set the time to 1000]
+[18:29:49] [Server thread/WARN]: Mismatch in destroy block pos: gj{x=662, y=62, z=-851} gj{x=662, y=61, z=-850}
+[18:31:41] [Server thread/INFO]: [Akuto: Set the weather to clear]
+[18:32:17] [Server thread/INFO]: SvininiPoedati drowned
+[18:32:28] [Server thread/INFO]: mrpipiskin has made the advancement [Take Aim]
+[18:35:02] [Server thread/INFO]: mrpipiskin has made the advancement [Acquire Hardware]
+[18:35:12] [Server thread/INFO]: mrpipiskin has made the advancement [Suit Up]
+[18:35:35] [Server thread/INFO]: mrpipiskin has made the advancement [Isn't It Iron Pick]
+[18:36:45] [Server thread/INFO]: [Akuto: Set the weather to clear]
+[18:36:49] [Server thread/INFO]: [Akuto: Set the time to 1000]
+[18:39:55] [Server thread/INFO]: dryun lost connection: Disconnected
+[18:39:55] [Server thread/INFO]: dryun left the game
+[18:41:52] [Server thread/INFO]: [Akuto: Set the weather to clear]
+[18:42:49] [Server thread/INFO]: [Akuto: Gamerule doWeatherCycle is now set to: false]
+[18:46:45] [Server thread/INFO]: [Akuto: Set the time to 1000]
+[18:48:36] [Server thread/INFO]: [Akuto: Teleported SvininiPoedati to Akuto]
+[18:48:36] [Server thread/WARN]: Ignoring UseItemOnPacket from SvininiPoedati: hit position gj{x=739, y=63, z=-853} too far away from player gj{x=662, y=69, z=-1077}.
+[18:48:36] [Server thread/WARN]: Ignoring UseItemOnPacket from SvininiPoedati: hit position gj{x=739, y=63, z=-853} too far away from player gj{x=662, y=69, z=-1077}.
+[18:49:12] [Server thread/INFO]: [Akuto: Teleported SvininiPoedati to mrpipiskin]
+[18:50:24] [Server thread/INFO]: [Akuto: Teleported Akuto to SvininiPoedati]
+[18:51:16] [Server thread/INFO]: [Akuto: Teleported mrpipiskin to Akuto]
+[18:51:33] [Server thread/INFO]: SvininiPoedati lost connection: Disconnected
+[18:51:33] [Server thread/INFO]: SvininiPoedati left the game
+[18:54:42] [Server thread/INFO]: Akuto has made the advancement [The Parrots and the Bats]
+[18:56:55] [Server thread/INFO]: [Akuto: Set the time to 1000]
+[18:57:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2797ms or 55 ticks behind
+[18:57:18] [Server thread/INFO]: dryun[/95.72.115.51:54955] logged in with entity id 26649 at (618.3000000119209, 66.0, -1043.699999988079)
+[18:57:18] [Server thread/INFO]: dryun joined the game
+[18:58:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 49596ms or 991 ticks behind
+[18:58:31] [Server thread/INFO]: [Akuto: Teleported Akuto to dryun]
+[18:58:42] [Server thread/INFO]: [Akuto: Teleported Akuto to mrpipiskin]
+[18:58:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26847ms or 536 ticks behind
+[18:58:49] [Server thread/INFO]: [Akuto: Teleported dryun to Akuto]
+[18:59:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26846ms or 536 ticks behind
+[18:59:46] [Server thread/INFO]: Akuto has made the advancement [A Seedy Place]
+[19:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14917ms or 298 ticks behind
+[19:00:19] [Server thread/INFO]: mrpipiskin has made the advancement [A Seedy Place]
+[19:00:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15514ms or 310 ticks behind
+[19:01:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16289ms or 325 ticks behind
+[19:01:08] [Server thread/WARN]: mrpipiskin moved too quickly! -9.576001556383972,-1.252203340253729,-3.4474356983096186
+[19:02:01] [Server thread/INFO]: dryun lost connection: Timed out
+[19:02:01] [Server thread/INFO]: dryun left the game
+[19:02:03] [Server thread/WARN]: Akuto moved too quickly! 9.794870899432112,1.0013359791121417,2.7791676293674072
+[19:02:03] [Server thread/WARN]: mrpipiskin moved too quickly! 6.515294009172521,1.7531999805212024,7.610144535671225
+[19:02:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 55052ms or 1101 ticks behind
+[19:02:18] [Server thread/INFO]: dryun[/95.72.115.51:55255] logged in with entity id 27536 at (809.2060964607068, 67.76636799395752, -708.0638206712665)
+[19:02:18] [Server thread/INFO]: dryun joined the game
+[19:03:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 44511ms or 890 ticks behind
+[19:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 42263ms or 845 ticks behind
+[19:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40697ms or 813 ticks behind
+[19:05:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27599ms or 551 ticks behind
+[19:06:51] [Server thread/WARN]: dryun moved too quickly! 8.254283635193588,-5.954869382832499,-0.839326157088891
+[19:07:01] [Server Watchdog/ERROR]: A single server tick took 60.02 seconds (should be max 0.05)
+[19:07:02] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.

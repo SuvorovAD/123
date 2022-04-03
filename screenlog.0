@@ -1,0 +1,5 @@
+root@ubuntu-s-1vcpu-2gb-fra1-01:~# scree[K[K[K[K[Kls
+banned-ips.json      eula.txt   [0m[01;34mlogs[0m      screenlog.0  server.properties  usercache.json  whitelist.json
+banned-players.json  [01;34mlibraries[0m  ops.json  [01;31mserver.jar[0m   [01;34msnap[0m               [01;34mversions[0m        [01;34mworld[0m
+root@ubuntu-s-1vcpu-2gb-fra1-01:~# screen -L
+root@ubuntu-s-1vcpu-2gb-fra1-01:~# 
